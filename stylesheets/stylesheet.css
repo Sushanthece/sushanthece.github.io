@@ -234,11 +234,6 @@ hr {
   background: url('../images/bg_hr.png') repeat-x center;
 }
 
-table {
-  border: 1px solid #373737;
-  margin-bottom: 20px;
-  text-align: left;
- }
 
 th {
   font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -357,7 +352,7 @@ Full-Width Styles
 }
 
 #main_content_wrap {
-  background: #f2f2f2;
+  background: #f4f4f4;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
@@ -378,7 +373,7 @@ Small Device Styles
 
 @media screen and (max-width: 480px) {
   body {
-    font-size:14px;
+    font-size:12px;
   }
 
   #downloads {
@@ -426,20 +421,3 @@ Small Device Styles
 
 }
 
-.thumbnails {
-    margin-bottom: 20px;
-}
-
-.thumbnail {
-    height: 250px;
-    color: #555;
-    padding: 0 0 20px 0;
-    font-family: sans-serif;
-    font-size: 12px;
-}
-.thumbnail:hover {
-    text-decoration: none;
-}
-.thumbnail h3, .thumbnail p {
-    margin: 16px;
-}
