@@ -312,6 +312,13 @@ Full-Width Styles
   text-shadow: #111 0px 0px 10px;
 }
 
+#contact {
+  color: #aaa;
+  font-weight: 300;
+  background: none;
+  text-shadow: #111 0px 0px 10px;
+}
+
 #downloads {
   position: absolute;
   width: 210px;
